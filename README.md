@@ -157,4 +157,52 @@ Tuesdays | Thursdays
  - [Here](https://www.youtube.com/watch?v=oTeXrcyaqKA) you can find my video on Cross-Validation
  - [Here](https://www.youtube.com/watch?v=2KTRa3QKvMY) you can find my video on Ridge and Lasso Regression
  - [Here](https://www.youtube.com/watch?v=fV1LQV0bQTU) you can find my video on Best subset selection.
+<<<<<<< HEAD
+=======
+ 
+## Lecture 6 Summary (Missing Data and Imputation)
+
+- Types of missing data (MCAR, MAR, NMAR)
+- Single imputation and their limitations
+- Imuptation using regression lines and error
+- Hot deck imputation
+- multiple imputation
+
+**Resources**
+ 
+- [Lecture 6 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%206-Missing%20Data-Imputation.pptx) 
+- [Missing Data and Imputation - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture6-MissingData.ipynb) 
+- [Missing Data and Imputation  - Practice Code and HW 3](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture6-Practice-Code.ipynb) 
+
+**Additional Resources**
+
+- Great [Video](https://www.youtube.com/watch?v=xnQ17bbSeEk) by Dr. Elizabeth A. Stuart from John Hopkins University
+
+**Announcements**
+
+- **HW 3 is assigned** (Due at 6:30PM - July 7th)
+- Please read [this](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW3/readme.md) before starting your assignment.
+- HW3 starter code can be found [here](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW3/HW3-Starter-code.ipynb)
+
+## Lecture 7 Summary (K-Nearest Neighbors)
+
+- Classification Problems
+- Misclassifciation Error
+- KNN algorithm for Classification
+- Cross-Validation for KNN Algorithm
+- Limitations of KNN Algorithm
+- KNN algorithm for Regression
+
+**Resources**
+ 
+- [Lecture 7 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%207%20-%20KNN.pptx) 
+- [K-Nearest Neighbors - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-KNN.ipynb) 
+- [K-Nearest Neighbors  - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-Practice-Code.ipynb) 
+
+**Announcements**
+
+- [HW 2 Solutions](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW2/HW2-Solution.ipynb) are posted.
+
+
+>>>>>>> upstream/master
 
