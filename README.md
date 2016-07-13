@@ -173,6 +173,7 @@ Tuesdays | Thursdays
 - [Lecture 6 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%206-Missing%20Data-Imputation.pptx) 
 - [Missing Data and Imputation - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture6-MissingData.ipynb) 
 - [Missing Data and Imputation  - Practice Code and HW 3](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture6-Practice-Code.ipynb) 
+- [Missing Data and Imputation - Solution Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture6-Practice-Solution.ipynb)
 
 **Additional Resources**
 
@@ -185,6 +186,7 @@ Tuesdays | Thursdays
 - HW3 starter code can be found [here](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW3/HW3-Starter-code.ipynb)
 
 ## Lecture 7 Summary (K-Nearest Neighbors)
+<<<<<<< HEAD
 
 - Classification Problems
 - Misclassifciation Error
@@ -205,4 +207,61 @@ Tuesdays | Thursdays
 
 
 >>>>>>> upstream/master
+=======
 
+- Classification Problems
+- Misclassifciation Error
+- KNN algorithm for Classification
+- Cross-Validation for KNN Algorithm
+- Limitations of KNN Algorithm
+- KNN algorithm for Regression
+>>>>>>> upstream/master
+
+**Resources**
+ 
+- [Lecture 7 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%207%20-%20KNN.pptx) 
+- [K-Nearest Neighbors - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-KNN.ipynb) 
+- [K-Nearest Neighbors  - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-Practice-Code.ipynb) 
+- [K-Nearest Neighbors - Practice Solution](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-Practice-Solution.ipynb)
+
+**Announcements**
+
+- [HW 2 Solutions](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW2/HW2-Solution.ipynb) are posted.
+
+## Lecture 8 Summary (Logistic Regression Part I)
+
+- Logistic Regression - Intro
+- Odds vs Probability
+- Using Logistic Regression to Make predictions
+- How one interprets coefficients of a Logistic Regression model
+- Strength and weaknesses of Logistic Regression Model
+
+**Resources**
+ 
+- [Lecture 8 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%208-Logistic_Regression_Part%20I.pptx) 
+- [Logistic Regression Part I - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8.ipynb) 
+- [Logistic Regression Part I - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8-Practice-Code.ipynb) 
+- [Logistic Regression Part I - Practice Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8-Practice-Solutions.ipynb)
+
+**Additional Resources**
+
+- Logistic Regression [video](https://www.youtube.com/watch?time_continue=374&v=r-yv6GbWep4)
+
+**HW 3 Solutions Posted**
+
+- [HW 3 Soltions](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW3/HW3-Solution.ipynb)
+
+## Lecture 9 Summary (Logistic Regression Part II)
+
+- Unbalanced observations and Logistic Regression
+- FP/FN/TP/TN/FPR/TPR
+- The effect of changing Threshhold
+- ROC Curves
+- Area Under Curve
+- How to compare classifciation algorithms
+
+**Resources**
+ 
+- [Lecture 9 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%209-Logistic%20Regression_Part%20II.pptx)
+- [Logistic Regression Part II - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture9.ipynb) 
+- [Logistic Regression Part II - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture9-Practice-Code.ipynb) 
