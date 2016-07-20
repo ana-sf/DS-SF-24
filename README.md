@@ -11,7 +11,7 @@ Tuesdays | Thursdays
 6/28: Model Selection | 6/30: Missing Data and Imputation
 7/5: K-Nearest Neighbors | 7/7: Logistic Regression Part I
 7/12: Logistic Regression Part II | 7/14: In Class Project 
-7/19: Decision Trees Part I | 7/21: Decision Trees Part II
+7/19: Tree-Based Models Part I | 7/21: Tree-Based Models Part II
 7/26: Natural Language Processing | 7/28: Time Series Models
 8/2: Principal Component Analysis | 8/4: Data Visualization
 8/9: Naive Bayes | 8/11: Course Review
@@ -187,6 +187,9 @@ Tuesdays | Thursdays
 
 ## Lecture 7 Summary (K-Nearest Neighbors)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> upstream/master
 
 - Classification Problems
 - Misclassifciation Error
@@ -200,11 +203,16 @@ Tuesdays | Thursdays
 - [Lecture 7 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%207%20-%20KNN.pptx) 
 - [K-Nearest Neighbors - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-KNN.ipynb) 
 - [K-Nearest Neighbors  - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-Practice-Code.ipynb) 
+<<<<<<< HEAD
+=======
+- [K-Nearest Neighbors - Practice Solution](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-Practice-Solution.ipynb)
+>>>>>>> upstream/master
 
 **Announcements**
 
 - [HW 2 Solutions](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW2/HW2-Solution.ipynb) are posted.
 
+<<<<<<< HEAD
 
 >>>>>>> upstream/master
 =======
@@ -215,6 +223,75 @@ Tuesdays | Thursdays
 - Cross-Validation for KNN Algorithm
 - Limitations of KNN Algorithm
 - KNN algorithm for Regression
+>>>>>>> upstream/master
+=======
+## Lecture 8 Summary (Logistic Regression Part I)
+
+- Logistic Regression - Intro
+- Odds vs Probability
+- Using Logistic Regression to Make predictions
+- How one interprets coefficients of a Logistic Regression model
+- Strength and weaknesses of Logistic Regression Model
+
+**Resources**
+ 
+- [Lecture 8 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%208-Logistic_Regression_Part%20I.pptx) 
+- [Logistic Regression Part I - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8.ipynb) 
+- [Logistic Regression Part I - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8-Practice-Code.ipynb) 
+- [Logistic Regression Part I - Practice Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8-Practice-Solutions.ipynb)
+
+**Additional Resources**
+
+- Logistic Regression [video](https://www.youtube.com/watch?time_continue=374&v=r-yv6GbWep4)
+
+**HW 3 Solutions Posted**
+
+- [HW 3 Soltions](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW3/HW3-Solution.ipynb)
+
+## Lecture 9 Summary (Logistic Regression Part II)
+
+- Unbalanced observations and Logistic Regression
+- FP/FN/TP/TN/FPR/TPR
+- The effect of changing Threshhold
+- ROC Curves
+- Area Under Curve
+- How to compare classifciation algorithms
+
+**Resources**
+ 
+- [Lecture 9 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%209-Logistic%20Regression_Part%20II.pptx)
+- [Logistic Regression Part II - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture9.ipynb) 
+- [Logistic Regression Part II - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture9-Practice-Code.ipynb) 
+- [Logistic Regression Part II - Practice - Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture9-Practice-Solution.ipynb)
+
+## Lecture 10 (In-Class Projects)
+
+
+- [Breast Cancer Project](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_Breast_Cancer.ipynb)
+- [Energy Efficiency Project](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_Energy_Efficiency.ipynb)
+- [Income Prediction Project](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_Income_Prediction.ipynb)
+- [Wine Quality Project](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_White_Wine_quality.ipynb)
+
+## Lecture 11 Summary (Tree-Based Models - part I)
+
+- Decision Tree for Regression
+- Greedy Approach
+- Decision Tree for Classification
+- Gini Index and Entropy index
+- Limitation of Simple Decision Trees
+
+**Resources**
+ 
+- [Lecture 11 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2011%20-%20Tree-Based%20Models%20-%20Part%20I.pptx)
+- [Decision Trees Part I - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture11.ipynb) 
+- [Decision Trees Part I - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture11-Practice-Code.ipynb) 
+
+**Additional Resources**
+
+- [Tree-Based Models - Video 1](https://www.youtube.com/watch?v=U-dYqlvafYA)
+- [Tree-Based Models - Video 2](https://www.youtube.com/watch?v=6fopQt_ENeU)
+- If you are among the ones who hate dealing with dummy variables, enjoy working with this [dummify function](https://github.com/ga-students/DS-SF-24/blob/master/Resources%20for%20Students/Dummify_Function.ipynb)
+
 >>>>>>> upstream/master
 
 **Resources**
