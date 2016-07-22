@@ -268,9 +268,12 @@ Tuesdays | Thursdays
 
 
 - [Breast Cancer Project](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_Breast_Cancer.ipynb)
+- [Breast Cancer - Group Notebook](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_Breast_Cancer_Group_Try.ipynb)
 - [Energy Efficiency Project](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_Energy_Efficiency.ipynb)
+- [Energy Efficiency - Group Notebook](https://github.com/ga-students/DS-SF-24/blob/master/Code/lecture10_project_energy_efficiency_Group_Try.ipynb)
 - [Income Prediction Project](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_Income_Prediction.ipynb)
 - [Wine Quality Project](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture10_Project_White_Wine_quality.ipynb)
+- [Wine Quality - Group Notebook](https://github.com/ga-students/DS-SF-24/blob/master/Code/lecture10_project_energy_efficiency_Group_Try.ipynb)
 
 ## Lecture 11 Summary (Tree-Based Models - part I)
 
@@ -294,6 +297,7 @@ Tuesdays | Thursdays
 
 >>>>>>> upstream/master
 
+<<<<<<< HEAD
 **Resources**
  
 - [Lecture 7 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%207%20-%20KNN.pptx) 
@@ -306,6 +310,33 @@ Tuesdays | Thursdays
 - [HW 2 Solutions](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW2/HW2-Solution.ipynb) are posted.
 
 ## Lecture 8 Summary (Logistic Regression Part I)
+=======
+## Lecture 12 Summary Tree-Based Models - part II)
+
+- Bagging
+- Random Forest
+- Boosting
+- Tuning parameters for boosting and Random Forest
+
+**Resources**
+ 
+- [Lecture 12 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2012%20-%20Tree-Based%20Models%20Part%20II.pptx)
+- [Decision Trees Part II - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture12.ipynb) 
+- [Decision Trees Part II - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture12-Practice-Code.ipynb) 
+
+
+
+**Additional Resources**
+
+
+- [Bagging, Boosting, and Random Forest - Video](https://www.youtube.com/watch?v=BaPmPEWxKu0)
+- [BootStrap - Video](https://www.youtube.com/watch?v=8bLsk1WXgDk)
+
+**Announcement**
+
+- [HW 4](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture12-Practice-Code.ipynb) is assigned and is due on July 28th 2016 at 6:30PM.
+- Please read [ReadMe](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW4/readme.md) file before working on your project. 
+>>>>>>> upstream/master
 
 - Logistic Regression - Intro
 - Odds vs Probability
