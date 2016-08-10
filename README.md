@@ -148,8 +148,11 @@ Tuesdays | Thursdays
  - [Lecture 5 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%205%20-%20Model%20Selection.pptx) 
  - [Model Selection - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture5-Model_Selection.ipynb) 
  - [Model Selection  - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture5-Practice-Code.ipynb) 
+ - [Model Selection - Practice Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture5-Practice-Solution.ipynb)
+ - [HW 1 - Key](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW1/HW1-Key.ipynb)
  
- **Additional Resources**
+ 
+**Additional Resources**
  
  - [Preprocessing](http://scikit-learn.org/stable/modules/preprocessing.html) Library
  - [Cross-Validation](http://scikit-learn.org/stable/modules/cross_validation.html) Library
@@ -157,8 +160,6 @@ Tuesdays | Thursdays
  - [Here](https://www.youtube.com/watch?v=oTeXrcyaqKA) you can find my video on Cross-Validation
  - [Here](https://www.youtube.com/watch?v=2KTRa3QKvMY) you can find my video on Ridge and Lasso Regression
  - [Here](https://www.youtube.com/watch?v=fV1LQV0bQTU) you can find my video on Best subset selection.
-<<<<<<< HEAD
-=======
  
 ## Lecture 6 Summary (Missing Data and Imputation)
 
@@ -186,10 +187,6 @@ Tuesdays | Thursdays
 - HW3 starter code can be found [here](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW3/HW3-Starter-code.ipynb)
 
 ## Lecture 7 Summary (K-Nearest Neighbors)
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> upstream/master
 
 - Classification Problems
 - Misclassifciation Error
@@ -203,28 +200,12 @@ Tuesdays | Thursdays
 - [Lecture 7 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%207%20-%20KNN.pptx) 
 - [K-Nearest Neighbors - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-KNN.ipynb) 
 - [K-Nearest Neighbors  - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-Practice-Code.ipynb) 
-<<<<<<< HEAD
-=======
 - [K-Nearest Neighbors - Practice Solution](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-Practice-Solution.ipynb)
->>>>>>> upstream/master
 
 **Announcements**
 
 - [HW 2 Solutions](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW2/HW2-Solution.ipynb) are posted.
 
-<<<<<<< HEAD
-
->>>>>>> upstream/master
-=======
-
-- Classification Problems
-- Misclassifciation Error
-- KNN algorithm for Classification
-- Cross-Validation for KNN Algorithm
-- Limitations of KNN Algorithm
-- KNN algorithm for Regression
->>>>>>> upstream/master
-=======
 ## Lecture 8 Summary (Logistic Regression Part I)
 
 - Logistic Regression - Intro
@@ -295,22 +276,7 @@ Tuesdays | Thursdays
 - [Tree-Based Models - Video 2](https://www.youtube.com/watch?v=6fopQt_ENeU)
 - If you are among the ones who hate dealing with dummy variables, enjoy working with this [dummify function](https://github.com/ga-students/DS-SF-24/blob/master/Resources%20for%20Students/Dummify_Function.ipynb)
 
->>>>>>> upstream/master
 
-<<<<<<< HEAD
-**Resources**
- 
-- [Lecture 7 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%207%20-%20KNN.pptx) 
-- [K-Nearest Neighbors - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-KNN.ipynb) 
-- [K-Nearest Neighbors  - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-Practice-Code.ipynb) 
-- [K-Nearest Neighbors - Practice Solution](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-Practice-Solution.ipynb)
-
-**Announcements**
-
-- [HW 2 Solutions](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW2/HW2-Solution.ipynb) are posted.
-
-## Lecture 8 Summary (Logistic Regression Part I)
-=======
 ## Lecture 12 Summary Tree-Based Models - part II)
 
 - Bagging
@@ -336,45 +302,7 @@ Tuesdays | Thursdays
 
 - [HW 4](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture12-Practice-Code.ipynb) is assigned and is due on July 28th 2016 at 6:30PM.
 - Please read [ReadMe](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW4/readme.md) file before working on your project. 
->>>>>>> upstream/master
 
-<<<<<<< HEAD
-- Logistic Regression - Intro
-- Odds vs Probability
-- Using Logistic Regression to Make predictions
-- How one interprets coefficients of a Logistic Regression model
-- Strength and weaknesses of Logistic Regression Model
-
-**Resources**
- 
-- [Lecture 8 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%208-Logistic_Regression_Part%20I.pptx) 
-- [Logistic Regression Part I - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8.ipynb) 
-- [Logistic Regression Part I - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8-Practice-Code.ipynb) 
-- [Logistic Regression Part I - Practice Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8-Practice-Solutions.ipynb)
-
-**Additional Resources**
-
-- Logistic Regression [video](https://www.youtube.com/watch?time_continue=374&v=r-yv6GbWep4)
-
-**HW 3 Solutions Posted**
-
-- [HW 3 Soltions](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW3/HW3-Solution.ipynb)
-
-## Lecture 9 Summary (Logistic Regression Part II)
-
-- Unbalanced observations and Logistic Regression
-- FP/FN/TP/TN/FPR/TPR
-- The effect of changing Threshhold
-- ROC Curves
-- Area Under Curve
-- How to compare classifciation algorithms
-
-**Resources**
- 
-- [Lecture 9 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%209-Logistic%20Regression_Part%20II.pptx)
-- [Logistic Regression Part II - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture9.ipynb) 
-- [Logistic Regression Part II - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture9-Practice-Code.ipynb) 
-=======
 ## Lecture 13 Summary (Natural Language Processing)
 - Definition of Natural Language Processing 
 - NLP applications
@@ -405,9 +333,6 @@ Tuesdays | Thursdays
 - [Bayes Examples](https://github.com/ga-students/DS-SF-24/blob/master/Resources%20for%20Students/Bayes-Examples.pdf)
 - [Bayes Example - Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Resources%20for%20Students/BayesExamples-Solutions.pdf)
 - [Principal Component Analysis Video](https://www.youtube.com/watch?v=IPuWD5QfpkA)
-<<<<<<< HEAD
->>>>>>> upstream/master
-=======
 
 ## Lecture 14 Summary (Principal Component Analysis)
 
@@ -428,9 +353,6 @@ Tuesdays | Thursdays
 * [This tutorial](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf) on Principal Components Analysis (PCA) includes good refreshers on covariance and linear algebra
 * To go deeper on Singular Value Decomposition, read [Kirk Baker's excellent tutorial](https://www.ling.ohio-state.edu/%7Ekbaker/pubs/Singular_Value_Decomposition_Tutorial.pdf).
 * Chapter 10 of  [Statistical Learning with applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf)
-<<<<<<< HEAD
->>>>>>> upstream/master
-=======
 
 ## Lecture 15 Summary (Time Series Models)
 
@@ -454,12 +376,34 @@ Tuesdays | Thursdays
 
 ## Lecture 16 Visualization - Thanks to Karla and Josh)
 
-<<<<<<< HEAD
->>>>>>> upstream/master
-=======
 * [Visualization Lecture - Karla - ppt](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2016%20-%20Visualization%20Karla.pptx)
 * [Visualization Lecture - Josh - Key Note](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2016%20-%20Visualization%20Josh.key)
-* [Visualization Lecture - Josh - pdf](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture16-Josh.pdf)
+* [Visualization Lecture - Josh - pdf](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2016%20-%20Josh.pdf)
 * [Visualization Code - Karla](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture16-Karla.ipynb)
 * [Visualization Code - Josh](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture16-Josh.ipynb)
->>>>>>> upstream/master
+
+## Lecture 17 Summary (Naive Bayes)
+
+
+**Summary**
+
+* Naive Bayes Algorithm introduced
+* Guassian NB
+* Bernoulli NB
+* Multinomial NB
+* Advantages and Disadvantages of using NB
+
+**Resources**
+
+- [Lecture 17 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%2017.pptx)
+- [Naive Bayes - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture17.ipynb) 
+- [Naive Bayes - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture17-Practice-Code.ipynb) 
+
+
+**Additional Resources**
+
+* High level overview of Naive Bayes - [Useful slides](http://www.cs.ucr.edu/~eamonn/CE/Bayesian%20Classification%20withInsect_examples.pdf)  
+* Easy-to-read lecture notes on [Naive Bayes](http://www.cs.colostate.edu/~cs545/fall13/dokuwiki/lib/exe/fetch.php?media=wiki%3A13_naive_bayes.pdf)
+* Naive Bayes model explained in more detail. [Harvard Unviersity - lecture notes](http://isites.harvard.edu/fs/docs/icb.topic540049.files/cs181_lec18_handout.pdf)
+* For more details on Naive Bayes classification, Wikipedia has two excellent articles ([Naive Bayes classifier](http://en.wikipedia.org/wiki/Naive_Bayes_classifier) and [Naive Bayes spam filtering](http://en.wikipedia.org/wiki/Naive_Bayes_spam_filtering)), and Cross Validated has a good [Q&A](http://stats.stackexchange.com/questions/21822/understanding-naive-bayes).
+
